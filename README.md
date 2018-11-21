@@ -22,14 +22,14 @@ I finally gave up and created all my honeypots in Google Cloud. My main admin ap
 
 ## Data
 - 165 total attacks for 1 hour combined
--TOP 5 Attacker IPs:
+- TOP 5 Attacker IPs:
   1. 104.248.6.137 (7 attacks) - US
   2. 162.243.160.49 (7 attacks) - US
   3. 209.97.142.149 (6 attacks) - GB
   4. 188.166.3.86 (6 attacks) - NL
   5. 159.65.225.115 (5 attacks) - US
 
--TOP 5 Attacked Ports:
+- TOP 5 Attacked Ports:
   1. 8088 (45 times)
   2. 23 (17 times)
   3. 445 (6 times)
